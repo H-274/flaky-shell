@@ -20,7 +20,8 @@ I want to try to do all of this while trying to minimize dependencies, using Qt,
   - (Padding, spacing, anchoring, etc)
 - [ ] Settings/config app
   - [ ] Settings exporter
-- [ ] Power usage info
+- [ ] Monitor settings
+- [ ] Power mode
 - [ ] Basic bar
   - [ ] Bar widgets
     - [ ] Clock
@@ -40,7 +41,7 @@ I want to try to do all of this while trying to minimize dependencies, using Qt,
     - [ ] See bar widgets
 - [ ] Notifications
 - [ ] Audio management
-- [ ] Lockscreen
+- [ ] Lock screen
 - [ ] Screen capture/recording
 - [ ] Wi-Fi/internet management
 - [ ] Bluetooth management

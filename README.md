@@ -4,8 +4,6 @@ A small, modular, and (hopefully) efficient shell targetting NixOS first.
 
 # Goals / Problem to Solve
 
-**I have no idea if all of these are possible yet but I'm hoping**
-
 - The goal is to have a shell where you only grab what you need via the NixOS configuration.
 - I'd also like to make it configurable via toml for convience, and to avoid double-configuration.
 - Eventually I'd like to have a cache server so people don't have to compile it themselves.

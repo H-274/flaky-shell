@@ -47,7 +47,7 @@ I want to try to do all of this while trying to minimize dependencies, using Qt,
 - [ ] Export themes to apps
   - Should be exported in an easy to parse format so it can be converted easily after
 
-# Greeter
+## Greeter
 
 - [ ] Basic login
 - [ ] Use themes from shell
